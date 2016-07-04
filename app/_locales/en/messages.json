@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "twitter original images",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Show original image on your timeline when click tweet.",
+    "description": "The description of the application"
+  }
+}
