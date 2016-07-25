@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message" : "TOI Twitter元画像ビューアー"
+  },
+  "appDescription": {
+    "Twitterのギャラリー表示モードページに、ボタンが追加。クリックで表示/非表示の切り替えができます。Openの[o]キーでも切り替え可能です。"
+  },
+}

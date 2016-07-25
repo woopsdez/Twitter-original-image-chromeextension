@@ -1,9 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Twitter original images (miki-shirusi)",
+  "name": "__MSG_appName__",
   "short_name": "TOI",
-  "description": "Display the images in its original size on twitter.com when clicked tweet.",
+  "description": "__MSG_appDescription__",
   "version": "1.1",
+  "default_locale": "en",
 
   "icons": {
     "16" : "icon-16.png",
