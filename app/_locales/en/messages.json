@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message" : "Twitter original images (miki-shirusi)",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message" : "Display the images in its original size on twitter.com when clicked tweet.",
+    "description":"The description of the application, displayed in the web store."
+  }
+}
