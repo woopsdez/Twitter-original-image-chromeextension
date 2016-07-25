@@ -1,7 +1,8 @@
 /* Set Button */
 .Gallery-content{
 	position: relative;
-	width: 99%;
+	max-width: 99%;
+	width: inherit;
 }
 
 .toi-btn{
@@ -40,6 +41,6 @@
 }
 
 img.media-image{
-	width: auto;
+	width: 100%;
 	height: inherit;
 }
